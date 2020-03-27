@@ -1,3 +1,4 @@
 # FirstGuiPython
+this is the classic HelloWorld inside a GUI
 Library : tkinter
-this is the classic HelloWorld insiede a GUI
+
